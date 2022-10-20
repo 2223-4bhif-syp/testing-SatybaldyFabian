@@ -1,0 +1,8 @@
+section.green.background, section.has-light-background h2, section.has-light-background h1 {
+    background-color: #59b943;
+    color: #ffffff;
+}
+
+section.font {
+    font-size: 40px;
+}
